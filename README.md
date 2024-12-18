@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/ivysingh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivysingh99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ivysingh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ivysingh99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ivysingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ivysingh" height="30" width="40" /></a>
-<a href="https://discord.gg/ivysingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ivysingh" height="30" width="40" /></a>
+<a href="https://discord.com/ivysingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ivysingh" height="30" width="40" /></a>
 </p>
 
 
