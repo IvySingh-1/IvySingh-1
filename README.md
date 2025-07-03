@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Ivy</h1>
 <h3 align="center">Technical Enthusiast</h3>
 
-- I’m currently learning **Backend (Node:Express) & C++**
+- I’m currently learning **MySQL & DSA in Java**
 
 - 📫 How to reach me **ivysingh99@gmail.com**
 
