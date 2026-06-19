@@ -3,7 +3,7 @@
 
 <p>Working on DevOps, AI/ML, and software development projects using Docker, CI/CD pipelines, and Kubernetes. I build solutions and apply technology to real-world problems. </p>
 
-🏆 **Winner — Climate Data Hackathon EPAM 2026** *(₹1,00,000 / ~$1,060)* for developing **AI-Driven Smart Sprinkling System for Delhi**
+🏆 **Winner — Climate Data Hackathon EPAM 2026** *(1,00,000 INR/ ~USD 1060)* for developing **AI-Driven Smart Sprinkling System for Delhi**
 
 🥈 **1st Runner-Up — Hackin’ Winter 2.0** for **Amnesia Anchor** — *AI-based Voice Recognition, Memory Simulation & ML Analytics System*
 
